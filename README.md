@@ -49,7 +49,10 @@ http://localhost:3000
 
 ## 📸 Screenshot
 
-(Add project screenshot here)
+![Student Expense Tracker](screenshots/screenshot.png)
+
+
+
 
 ## 👨‍💻 Author
 

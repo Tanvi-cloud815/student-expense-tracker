@@ -32,7 +32,13 @@ student-expense-tracker
 ├── server.js
 ├── data.json
 ├── package.json
+
+
 ```
+## Live Demo
+https://student-expense-tracker-production-f712.up.railway.app/
+
+
 
 ## ▶️ Run Locally
 
@@ -50,6 +56,7 @@ http://localhost:3000
 ## 📸 Screenshot
 
 ![Student Expense Tracker](screenshots/screenshot.png)
+
 
 
 

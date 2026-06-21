@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1782019165192,
+    "title": "Lunch ",
+    "amount": "100",
+    "category": "Food",
+    "date": "2026-07-22"
+  },
+  {
+    "id": 1782019262803,
+    "title": "Bus Pass",
+    "amount": "300",
+    "category": "Travel",
+    "date": "2026-07-24"
+  },
+  {
+    "id": 1782019310503,
+    "title": "DSA Book",
+    "amount": "450",
+    "category": "Education",
+    "date": "2026-08-07"
+  }
+]

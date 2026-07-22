@@ -53,9 +53,7 @@ Open:
 http://localhost:3000
 ```
 
-## 📸 Screenshot
 
-![Student Expense Tracker](screenshots/screenshot.png)
 
 
 

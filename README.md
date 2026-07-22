@@ -36,7 +36,7 @@ student-expense-tracker
 
 ```
 ## Live Demo
-https://student-expense-tracker-production-f712.up.railway.app/
+https://student-expense-tracker-1-zfhf.onrender.com/
 
 
 

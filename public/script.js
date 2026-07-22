@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/expenses";
+const API = "/expenses";
 
 async function loadExpenses() {
     const res = await fetch(API);

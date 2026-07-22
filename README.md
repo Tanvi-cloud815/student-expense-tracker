@@ -38,27 +38,6 @@ student-expense-tracker
 ## Live Demo
 https://student-expense-tracker-1-zfhf.onrender.com/
 
-
-
-## ▶️ Run Locally
-
-```bash
-npm install
-node server.js
-```
-
-Open:
-
-```
-http://localhost:3000
-```
-
-
-
-
-
-
-
 ## 👨‍💻 Author
 
 Tanvi Gupta
